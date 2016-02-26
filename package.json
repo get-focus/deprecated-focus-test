@@ -1,0 +1,25 @@
+{
+  "name": "focus-test",
+  "version": "1.0.0",
+  "description": "Test helpers for all focus projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/get-focus/focus-test.git"
+  },
+  "keywords": [
+    "test",
+    "mocha",
+    "react",
+    "selenium"
+  ],
+  "author": "focus@kleegroup.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/get-focus/focus-test/issues"
+  },
+  "homepage": "https://github.com/get-focus/focus-test#readme"
+}
