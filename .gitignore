@@ -1,7 +1,12 @@
 # Logs
+lib
 logs
 *.log
 npm-debug.log*
+
+# Build export
+react/*
+saucelab/*
 
 # Runtime data
 pids
